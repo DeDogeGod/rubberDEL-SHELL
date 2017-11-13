@@ -1,4 +1,5 @@
 # rubberDEL SHELL
+##Disclaimer! Go to releases tab for the newest version!!!!
 # 
 -------------------------
 #
