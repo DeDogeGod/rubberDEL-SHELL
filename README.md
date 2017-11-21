@@ -8,7 +8,24 @@
 
 If you aready now rubberDEL BATCH its the same thing expept it was more recnelty made for linux and mac since they use command shell. rubberDEL allows you to quickly and easly delete the inject.bin files. I am constenly working on updates for this as soon as I can.
 
-## Features
+## Features v0.3b
+  - RENAME FILES FROM COMPUTER
+  - RENAME FILES FROM USB
+  - SUPER FAST
+  - Many Bug fixes
+  - All programs check if files exists!
+  - Mac support coming soon
+  - Small File Size. 0.6 m!!!
+  - Ultimate Version
+  - Custom File Deleting coming soon!
+
+### Features v0.2b
+  - COPY FILE TO YOUR USB WITH EASE!!!!!!!!!
+  - Wayyy Faster
+  - Some of the programs now check if the file exists!
+  -Bugg Fixes
+
+### Features
 
   - Easly erase inject.bin files from your usb
   - More features coming out
