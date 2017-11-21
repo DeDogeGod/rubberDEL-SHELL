@@ -54,9 +54,10 @@ Next copy rubberDEL.sh to your home directory. For Kali Linux most of the times 
 If you have git then use use this command in terminal. I recomend downloading it to your home destination. This only has the rubberDEL.sh and a lisnce so you can git clone automantically use it.
 
 ```sh
-git clone https://github.com/DeDogeJesus/shortlink-rubberDELSHELL.git
+git clone https://github.com/DeDogeJesus/shortlink-rubberDELSHELL.git OLD LINK
+git clone https://github.com/DeDogesHellLand/shortlinks-rubberDELSHELL.git New Link
 ```
-This respetory is on my friends acount he doesn't use. It is inactive so please don't do anything.
+This is on a team repestory so dont mess it up!
 
 #
 #
@@ -76,3 +77,7 @@ Next in command prompt type ./rubberDEL.sh. If that doesn't work drag and drop r
 *Keep in mind this is a freeware so please give me credit becuase I have a license over it and claiming it is against my liscense.*
 
 To develope on this please contact me at dedogegod@gmail.com. I will grant you permission. If you don't feel like contacting me I understand. Then please comment on the issues page about your recomendation. 
+
+
+
+### I have a new Developmnet Version!!! Email me!
